@@ -10,4 +10,4 @@ This program allows us to view and understand all the data relating to the bikes
 In order to make the program work properly, we need the csv files provided by the company for each city (Chicago.csv, New York City.csv, Washington.csv). These files contain a lot of information that can be analyzed and studied.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+With the consultation and help of www.stackoverflow.com website, the program came to life.
