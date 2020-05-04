@@ -4,7 +4,7 @@
 Explore the US bikeshare data!
 
 ### Description
-Describe what your project is about and what it does
+This program allows us to view and understand all the data relating to the bikeshare company through the use of analysis filters such as the cities where the company works, the most common trips, time of use and also allows us to understand our customers, their age, their gender and many other useful information in order to improve our future marketing strategies.
 
 ### Files used
 Include the files used
