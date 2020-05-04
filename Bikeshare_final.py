@@ -1,3 +1,5 @@
+""" We need to import external libraries such as Pandas and Numpy
+    in order to perform the calculations of our functions correcly and quickly """
 import time
 import pandas as pd
 import numpy as np
