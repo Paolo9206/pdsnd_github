@@ -170,6 +170,9 @@ def user_stats(df, city):
     print(df['User Type'].value_counts())
 
     if city != 'washington':
+        """ we use the command if city not Washington, because the csv file related to this city
+        doesn't contain the users' gender so the function would return an error
+        if we considered this city """
         # Display counts of gender
         print("Here are the counts of gender:")
         print(df['Gender'].value_counts())
